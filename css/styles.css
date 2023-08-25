@@ -256,6 +256,10 @@ footer p a {
         border-radius: 0 15px;
     }
     
+    .grid-item4 {
+        grid-column: 1/span3;
+    }
+    
     #exercises {
         border-top: 1px solid #000;
         border-bottom: 1px solid #000;
@@ -324,6 +328,10 @@ footer p a {
     
     main h1 {
         font-size: 1.8em;
+    }
+    
+    article h3 {
+        font-size: 1.75em;
     }
     
     .pic-text {
